@@ -8,3 +8,4 @@ Questions list:-
 3) 4 Sum [https://leetcode.com/problems/4sum/]
 4) Longest Consecutive Sequence [https://leetcode.com/problems/longest-consecutive-sequence/]
 5) Largest subarray with 0 sum [https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#]
+6) Count the number of subarrays having a given XOR [https://www.geeksforgeeks.org/count-number-subarrays-given-xor/]
