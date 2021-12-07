@@ -34,6 +34,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+//In O(n) + O(n) = O(2n)
+//    |      |
+// length   n=1(worst case)
 int length(ListNode* head){
     int n=0;
     while(head!=NULL){
@@ -59,3 +62,35 @@ ListNode* removeNthFromEnd(ListNode* head, int n) {
         return ans;
     }
 }
+
+// Follow up:-
+//in one pass i.e. O(n)
+ListNode* removeNthFromEnd(ListNode* head, int n) {
+     //using slow and fast pointer concept
+     ListNode *fast=head,*slow=NULL;
+     for(int i=1;i<n;i++)fast = fast->next;
+     int i=0;
+     while(fast->next != NULL){
+         //run only first time in loop
+         if(i==0){
+             fast = fast->next;
+             slow = head;
+             i++;
+         }else{
+             fast = fast->next;
+             slow = slow->next;
+         }
+     }
+     //Edge Case
+     if(slow==NULL){
+         ListNode *ans = head->next;
+         delete(head);
+         return ans;
+     }else{
+         ListNode* tmp = slow->next;
+         slow->next = tmp->next;
+         delete(tmp);
+         return head;
+     }
+ }
+//Here fast pointer takes O(n) time complexity
