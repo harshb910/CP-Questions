@@ -13,3 +13,4 @@ Questions list:-
 8) Reverse Linked List [https://leetcode.com/problems/reverse-linked-list/]
 9) Middle of the Linked List [https://leetcode.com/problems/middle-of-the-linked-list/]
 10) Merge Two Sorted Lists [https://leetcode.com/problems/merge-two-sorted-lists/]
+11) Remove Nth Node From End of List [https://leetcode.com/problems/remove-nth-node-from-end-of-list/]
