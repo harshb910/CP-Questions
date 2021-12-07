@@ -10,3 +10,4 @@ Questions list:-
 5) Largest subarray with 0 sum [https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1#]
 6) Count the number of subarrays having a given XOR [https://www.geeksforgeeks.org/count-number-subarrays-given-xor/]
 7) Longest Substring Without Repeating Characters [https://leetcode.com/problems/longest-substring-without-repeating-characters/]
+8) Reverse Linked List [https://leetcode.com/problems/reverse-linked-list/]
