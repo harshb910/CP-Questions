@@ -16,3 +16,4 @@ Questions list:-
 11) Remove Nth Node From End of List [https://leetcode.com/problems/remove-nth-node-from-end-of-list/]
 12) Delete Node in a Linked List if node is given [https://leetcode.com/problems/delete-node-in-a-linked-list/]
 13) Merge Intervals [https://leetcode.com/problems/merge-intervals/]
+14) 3sum [https://leetcode.com/problems/3sum/]
