@@ -18,3 +18,4 @@ Questions list:-
 13) Merge Intervals [https://leetcode.com/problems/merge-intervals/]
 14) 3sum [https://leetcode.com/problems/3sum/]
 15) product of array except self [https://leetcode.com/problems/product-of-array-except-self/]
+16) Insert Delete GetRandom O(1) [https://leetcode.com/problems/insert-delete-getrandom-o1/]
