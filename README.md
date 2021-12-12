@@ -21,3 +21,4 @@ Questions list:-
 16) Insert Delete GetRandom O(1) [https://leetcode.com/problems/insert-delete-getrandom-o1/]
 17) Subarray Sum equals K [https://leetcode.com/problems/subarray-sum-equals-k/]
 18) Next Permutation [https://leetcode.com/problems/next-permutation/]
+19) Spiral Matrix [https://leetcode.com/problems/spiral-matrix/]
