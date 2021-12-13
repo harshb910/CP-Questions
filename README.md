@@ -23,3 +23,4 @@ Questions list:-
 18) Next Permutation [https://leetcode.com/problems/next-permutation/]
 19) Spiral Matrix [https://leetcode.com/problems/spiral-matrix/]
 20) Container with most water [https://leetcode.com/problems/container-with-most-water/]
+21) Rotate Matrix [https://leetcode.com/problems/rotate-image/]
