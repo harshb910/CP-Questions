@@ -24,3 +24,4 @@ Questions list:-
 19) Spiral Matrix [https://leetcode.com/problems/spiral-matrix/]
 20) Container with most water [https://leetcode.com/problems/container-with-most-water/]
 21) Rotate Matrix [https://leetcode.com/problems/rotate-image/]
+22) Word Search [https://leetcode.com/problems/word-search/]
