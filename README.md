@@ -29,3 +29,4 @@ Questions list:-
 24) Game of Life [https://leetcode.com/problems/game-of-life/]
 25) find the duplicate number [https://leetcode.com/problems/find-the-duplicate-number/]
 26) Combination Sum I [https://leetcode.com/problems/combination-sum/]
+27) Jump Game II [https://leetcode.com/problems/jump-game-ii/]
