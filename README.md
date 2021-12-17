@@ -33,3 +33,4 @@ Questions list:-
 28) Maximum points you can obtain from cards [https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/]
 29) Maximum area of a piece of cake after horizontal and vertical cuts [https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/]
 30) Max area of Island [https://leetcode.com/problems/max-area-of-island/]
+31) Find All Duplicates in an Array [https://leetcode.com/problems/find-all-duplicates-in-an-array/]
