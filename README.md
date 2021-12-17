@@ -30,3 +30,4 @@ Questions list:-
 25) find the duplicate number [https://leetcode.com/problems/find-the-duplicate-number/]
 26) Combination Sum I [https://leetcode.com/problems/combination-sum/]
 27) Jump Game II [https://leetcode.com/problems/jump-game-ii/]
+28) Maximum points you can obtain from cards [https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/]
