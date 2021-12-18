@@ -36,3 +36,4 @@ Questions list:-
 31) Find All Duplicates in an Array [https://leetcode.com/problems/find-all-duplicates-in-an-array/]
 32) K-diff Pairs in an Array [https://leetcode.com/problems/k-diff-pairs-in-an-array/]
 33) Subsets [https://leetcode.com/problems/subsets/]
+34) Jump Game [https://leetcode.com/problems/jump-game/]
