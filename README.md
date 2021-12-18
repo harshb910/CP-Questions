@@ -37,3 +37,4 @@ Questions list:-
 32) K-diff Pairs in an Array [https://leetcode.com/problems/k-diff-pairs-in-an-array/]
 33) Subsets [https://leetcode.com/problems/subsets/]
 34) Jump Game [https://leetcode.com/problems/jump-game/]
+35) Subarray Sums Divisible by K [https://leetcode.com/problems/subarray-sums-divisible-by-k/]
