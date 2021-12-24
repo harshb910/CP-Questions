@@ -38,3 +38,11 @@ Questions list:-
 33) Subsets [https://leetcode.com/problems/subsets/]
 34) Jump Game [https://leetcode.com/problems/jump-game/]
 35) Subarray Sums Divisible by K [https://leetcode.com/problems/subarray-sums-divisible-by-k/]
+36) Climbing Stairs [https://leetcode.com/problems/climbing-stairs]
+37) Divisor Game [https://leetcode.com/problems/divisor-game/]
+38) Counting Bits [https://leetcode.com/problems/counting-bits/]
+39) Decode Ways [https://leetcode.com/problems/decode-ways/]
+
+
+
+
